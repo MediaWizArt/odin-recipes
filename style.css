@@ -1,0 +1,51 @@
+body {
+    background-color: #374b6b;
+}
+h1,
+h2,
+h3 {
+    color: #58bf4e;
+    font-family: 'Courier New', Courier, monospace;
+}
+h1 {
+    text-align: end;
+    font-size: 50px;
+}
+
+button {
+    background-color:rgb(214, 217, 226) ;
+    font-size: 25px;
+    color: black;
+    font-family: monospace;
+    border-color: black;
+    border-radius: 4px;
+}
+
+#return {
+    font-size: 8px;
+    float: right;
+}
+
+h2 {
+    font-size: 30px;
+    text-align: end;
+}
+
+.description {
+    text-align: end;
+}
+h3 {
+    text-align: left;
+}
+
+ul,
+ol {
+    font-size: 15px;
+}
+
+img {
+    float: right;
+    width: 400px;
+    height: 300px;
+    object-fit: cover;    
+}

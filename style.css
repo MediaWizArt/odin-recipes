@@ -36,11 +36,12 @@ h2 {
 }
 h3 {
     text-align: left;
+    font-size: 15px;
 }
 
 ul,
 ol {
-    font-size: 15px;
+    font-size: 20px;
 }
 
 img {
